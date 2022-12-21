@@ -33,7 +33,7 @@
 <a href="https://twitter.com/rishabh19007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabh19007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishabh-jaiswal-87248a21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-jaiswal-87248a21b" height="30" width="40" /></a>
 <a href="https://instagram.com/_rishabh.19_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rishabh.19_" height="30" width="40" /></a>
-<a href="https://discord.gg/WARHORSE007#2504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WARHORSE007#2504" height="30" width="40" /></a>
+<a href="https://discord.gg/kCyqbE2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kCyqbE2k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
