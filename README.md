@@ -15,11 +15,11 @@
 
 - 👨🏻‍🤝‍👨🏻 I’m currently working on [Aura](https://teamaura58.netlify.app/).
 
-- 👨‍💻 All of my social media handles are available at [https://linktr.ee/Rishabh.19](https://linktr.ee/Rishabh.19).
+- 👨‍💻 All of my social media handles are available @ [https://linktr.ee/Rishabh.19](https://linktr.ee/Rishabh.19).
 
 - 💬 Ask me about **Git, Github, frontend web development.**
 
-- 📫 How to reach me **jaiswalrishabh1230@gmail.com**
+- 📫 Reach me @ **jaiswalrishabh1230@gmail.com**
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
