@@ -1,6 +1,6 @@
 ![logo](https://github.com/rishabh1911007/rishabh1911007/blob/main/github.gif)
 <h1 align="center">Hi 👋, I'm Rishabh Jaiswal 💀</h1>
-<h3 align="center">A passionate Software developer & Frontend web developer from <a href="https://www.galgotiasuniversity.edu.in/"> Galgotias University</a>, Greater Noida, India.</h3>
+<h3 align="center">A passionate Software developer & Frontend web developer from Greater Noida, India.</h3>
 
 <p>  <br> </p>
 
@@ -9,7 +9,7 @@
 <img align ="right" alt="coding" width="400" src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
 
 
-- 🔭 I’m currently pursuing **B.Tech CS(AIML).**
+- 🔭 I’m currently pursuing **B.Tech CS(AIML) from <a href="https://www.galgotiasuniversity.edu.in/"> Galgotias University</a>.**
 
 - 🌱 I’m currently learning **Java.**
 
