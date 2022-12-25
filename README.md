@@ -36,7 +36,7 @@
 <a href="https://discord.gg/kCyqbE2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kCyqbE2k" height="30" width="40" /></a>
 </p>
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rishabh19)](https://holopin.io/@rishabh19)
 
 
 <h3 align="left">Languages and Tools:</h3>
