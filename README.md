@@ -22,7 +22,7 @@
 - 📫 Reach me @ **jaiswalrishabh1230@gmail.com**
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rishabh1911007&theme=onedark)](https://github.com/rishabh1911007/github-profile-trophy)
 
 <!--<p align="left"> <a href="https://twitter.com/rishabh19007" target="blank"><img src="https://img.shields.io/twitter/follow/rishabh19007?logo=twitter&style=for-the-badge" alt="rishabh19007" /></a> </p> -->
 
