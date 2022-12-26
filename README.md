@@ -10,7 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh1911007&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh1911007" /> </p>
 
-![dog](https://user-images.githubusercontent.com/92149073/209520032-37155644-28ac-4174-b504-62cc97b9528d.gif)
+<!--![dog](https://user-images.githubusercontent.com/92149073/209520032-37155644-28ac-4174-b504-62cc97b9528d.gif)
+![dog (1)](https://user-images.githubusercontent.com/92149073/209521879-4a3615ae-a8bd-47b5-95a3-b2d4b1ac867e.gif)-->
+
+
+<img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/92149073/209521879-4a3615ae-a8bd-47b5-95a3-b2d4b1ac867e.gif">
+
+
 
 - 🔭 I’m currently pursuing **B.Tech CS(AIML) from <a href="https://www.galgotiasuniversity.edu.in/"> Galgotias University</a>.**
 
