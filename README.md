@@ -13,6 +13,8 @@
 <!--<img align ="right" alt="coding" width="400" src="https://github.com/rishabh1911007/rishabh1911007/blob/main/cat.gif">
 ![logo](https://github.com/rishabh1911007/rishabh1911007/blob/main/cat.gif-->
 
+![](https://github.com/rishabh1911007/rishabh1911007/blob/main/cat.gif)
+
 
 
 - 🔭 I’m currently pursuing **B.Tech CS(AIML) from <a href="https://www.galgotiasuniversity.edu.in/"> Galgotias University</a>.**
