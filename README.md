@@ -24,7 +24,7 @@
 
 - 👨🏻‍🤝‍👨🏻 I’m currently working on [Aura](https://teamaura58.netlify.app/).
 
-- 👨‍💻 All of my social media handles are available @ [https://linktr.ee/Rishabh.19](https://linktr.ee/Rishabh.19).
+- 👨‍💻 All of my social media handles are available @ [https://bit.ly/SocialMediaHandlez](https://bit.ly/SocialMediaHandlez).
 
 - 💬 Ask me about **Git, Github, frontend web development.**
 
