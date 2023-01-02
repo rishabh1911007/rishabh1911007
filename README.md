@@ -69,9 +69,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh1911007&" alt="rishabh1911007" /></p>
 </p><br><br>
 
-<h3 align="left">Stack Overflow:</h3>
+<!--<h3 align="left">Stack Overflow:</h3>
 <p><a href="https://stackoverflow.com/users/19083380/rishabh-jaiswal"><img src="https://stackoverflow.com/users/flair/19083380.png" width="208" height="58" alt="profile for Rishabh Jaiswal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Rishabh Jaiswal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
-</p><br><br>
+</p><br><br>-->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rishabh.19007"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rishabh.19007" /></a>
