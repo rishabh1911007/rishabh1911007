@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **Git, GitHub, and Frontend Web Development.**
 
-- 📫 Reach me @ **jaiswalrishabh1230@gmail.com**
+- 📫 For official work reach me @ **jaiswalrishabh1230@gmail.com**
 
 <p>  <br> </p>
 
