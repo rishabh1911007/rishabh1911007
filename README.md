@@ -24,7 +24,7 @@
 
 - 👨🏻‍🤝‍👨🏻 I’m currently working on [Aura](https://teamaura58.netlify.app/).
 
-- ☄️ My youtube channel is [TechNime](https://www.youtube.com/channel/UCyCNbaP9ON4nEa9A2sJEfjQ), where I'm posting tech related stuff.
+- ☄️ My youtube channel is [TechNime](https://www.youtube.com/channel/UCyCNbaP9ON4nEa9A2sJEfjQ), where I post tech related stuff.
 
 - 👨‍💻 All of my social media handles are available @ [https://bit.ly/SocialMediaHandlez](https://bit.ly/SocialMediaHandlez).
 
