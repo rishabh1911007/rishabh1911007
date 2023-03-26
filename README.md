@@ -26,6 +26,8 @@
 
 - ☄️ I have a youtube channel named [TechNime](https://www.youtube.com/channel/UCyCNbaP9ON4nEa9A2sJEfjQ), where I post tech related stuff.
 
+- 👨🏻‍🤝‍👨🏻Currently, I am a member of Google Developer Student Clubs @Galgotias University
+
 - 👨‍💻 All of my social media handles are available @ [https://bit.ly/SocialMediaHandlez](https://bit.ly/SocialMediaHandlez).
 
 - 💬 Ask me about **Git, GitHub, and Frontend Web Development.**
