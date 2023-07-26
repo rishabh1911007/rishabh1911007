@@ -30,7 +30,7 @@
 
 - 👨‍💻 All of my social media handles are available @ [https://bit.ly/SocialMediaHandlez](https://bit.ly/SocialMediaHandlez).
 
-- 💬 Ask me about **Git, GitHub, and Frontend Web Development.**
+- 💬 Ask me about **Git, GitHub, and Android Development.**
 
 - 📫 For official work reach me @ **jaiswalrishabh1230@gmail.com**
 
