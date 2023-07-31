@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rishabh Jaiswal 💀</h1>
-<h3 align="center">A passionate Software developer & Android developer from Greater Noida, India.</h3>
+<h3 align="center">An aspiring Android Developer & AIML enthusiast from Greater Noida, India.</h3>
 
 <p>  <br> </p>
 
