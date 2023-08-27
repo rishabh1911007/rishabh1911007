@@ -47,8 +47,8 @@
 <a href="https://linkedin.com/in/rishabh-jaiswal-87248a21b" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92149073/209526440-21345242-edd8-46dc-948b-8e9fda45029b.svg" alt="rishabh-jaiswal-87248a21b" height="30" width="40" /></a>
 <a href="https://instagram.com/_rishabh.19_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92149073/209525806-f8554c5c-f72f-4d7a-a88b-25cbac8da2b9.svg" alt="_rishabh.19_" height="30" width="40" /></a>
 <a href="https://twitter.com/rishabh19007" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92149073/209526102-f1cded04-e150-49ad-a0eb-0035b80cfd4d.svg" alt="rishabh19007" height="30" width="40" /></a>
-<a href="https://discord.gg/kCyqbE2k" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92149073/209526729-1ea102d5-8642-4b4a-a96f-c61d56e6187f.svg" alt="kCyqbE2k" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCyCNbaP9ON4nEa9A2sJEfjQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technime" height="30" width="40" /></a>
+<a href="https://discord.gg/3QurWQrZzQ" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92149073/209526729-1ea102d5-8642-4b4a-a96f-c61d56e6187f.svg" alt="kCyqbE2k" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCyCNbaP9ON4nEa9A2sJEfjQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Technime" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rishabh1911007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabh1911007" height="30" width="40" /></a>
 </p>
 
