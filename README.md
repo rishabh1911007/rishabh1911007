@@ -16,7 +16,9 @@
 
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/92149073/209521879-4a3615ae-a8bd-47b5-95a3-b2d4b1ac867e.gif">
 
+- 👨🏻‍🤝‍👨🏻 Content & Social Media Lead <a href="https://gdsc.community.dev/galgotias-university-greater-noida/"> Google Developer Student Clubs- Galgotias University</a>
 
+- 👌I know Kotlin, Android Development, Adobe Illustrator, Adobe After Effects, Adobe Premier Pro, Figma
 
 - 🔭 I’m currently pursuing **B.Tech CS(AIML) from <a href="https://www.galgotiasuniversity.edu.in/"> Galgotias University</a>.**
 
@@ -25,8 +27,6 @@
 - 👨🏻‍🤝‍👨🏻 I’m currently working on [Aura](https://teamaura58.netlify.app/).
 
 - ☄️ I have a youtube channel named [TechNime](https://www.youtube.com/channel/UCyCNbaP9ON4nEa9A2sJEfjQ), where I post tech related stuff.
-
-- 👨🏻‍🤝‍👨🏻Currently, I am a member of Google Developer Student Clubs @Galgotias University
 
 - 👨‍💻 All of my social media handles are available @ [https://bit.ly/SocialMediaHandlez](https://bit.ly/SocialMediaHandlez).
 
