@@ -16,6 +16,10 @@
 
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/92149073/209521879-4a3615ae-a8bd-47b5-95a3-b2d4b1ac867e.gif">
 
+- ![ClipWindowsGIF](https://github.com/rishabh1911007/rishabh1911007/assets/92149073/f91a13a9-c4e3-4e9e-a407-9e5aff300eae) Here's my [resume](https://drive.google.com/file/d/1lJeusFFIL-EO0FI90kdXtbGTiujJsQ3Q/view?usp=sharing). 
+
+
+
 - 👨🏻‍🤝‍👨🏻 Content & Social Media Lead <a href="https://gdsc.community.dev/galgotias-university-greater-noida/"> Google Developer Student Clubs- Galgotias University</a>
 
 - 👌I know Kotlin, Android Development, Adobe Illustrator, Adobe After Effects, Adobe Premier Pro, Figma
