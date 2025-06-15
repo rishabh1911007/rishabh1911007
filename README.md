@@ -16,7 +16,7 @@
 
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/92149073/209521879-4a3615ae-a8bd-47b5-95a3-b2d4b1ac867e.gif">
 
-- 📜 Here's my [resume](https://www.figma.com/design/a6z7Z29xuo2ANxcBgWsgwF/Rishabh-Jaiswal-Resume?node-id=0-1&t=kT50l7f42Kk4iXlz-1). 
+<!-- - 📜 Here's my [resume](https://www.figma.com/design/a6z7Z29xuo2ANxcBgWsgwF/Rishabh-Jaiswal-Resume?node-id=0-1&t=kT50l7f42Kk4iXlz-1). -->
 
 - 👨🏻‍🤝‍👨🏻 Content & Social Media Lead <a href="https://gdsc.community.dev/galgotias-university-greater-noida/"> Google Developer Student Clubs- Galgotias University</a>
 
